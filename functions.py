@@ -1,4 +1,3 @@
-#this is updated functions.py
 
 # reasons for high risklevel??
 for order_num in range(len(all_merchants_shopify)):
