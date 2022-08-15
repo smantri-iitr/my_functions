@@ -2,6 +2,7 @@
 
 
 
+
 # reasons for high risklevel??
 for order_num in range(len(all_merchants_shopify)):
     if all_merchants_shopify[order_num]['shopify']['riskLevel']=='HIGH':
